@@ -1,0 +1,24 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+navigation {
+    
+    background-color: blue;
+    
+}
+
+navigation li {
+    float: left;
+}
+
+navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+}
+
+navigation li a:hover {
+    background-color: lavender;
+}
