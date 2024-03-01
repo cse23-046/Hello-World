@@ -1,24 +1,18 @@
-body, ul {
-    margin: 0;
-    padding: 0;
-}
-
-navigation {
+body {
     
     background-color: blue;
+}
+
+h1{
     
+    color: purple;
+    
+
 }
 
-navigation li {
-    float: left;
-}
-
-navigation li a {
-    display: block;
+navigation ul class  {
     color: white;
     text-align: center;
 }
 
-navigation li a:hover {
-    background-color: lavender;
-}
+
