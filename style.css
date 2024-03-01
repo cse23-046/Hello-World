@@ -1,31 +1,13 @@
-header {
-    text-align: center;
-    background-color: beige;
-    color: pink;
-
+h1 {
+  color:pink;
 }
-
-
-img {
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%; 
-
+h2{
+  color:pink;
 }
-
-
-p {
-    text-align: center;
-    font-size: 18px;
-    line-height: 1.6;
-    margin: 20px auto;
-    max-width: 600px;
-}
-
-
-body {
-    align-items: center;
-    justify-content: center;
-}
+body{
+      background-color:beige;
+    }
+      p{
+        color:pink;
+        text-align:center;
+      }
